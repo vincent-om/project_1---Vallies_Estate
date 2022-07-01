@@ -14,6 +14,10 @@ img {
     height: 100%;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .btn {
     padding: 15px;
     background-color: #2549D3;
@@ -65,16 +69,20 @@ img {
     margin-top: 10px;
 }
 
+.m-top-50 {
+    margin-top: 50px;
+}
+
 .m-bottom-20 {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .m-left-20 {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .m-right-20 {
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 
@@ -118,6 +126,10 @@ img {
     justify-content: center;
 }
 
+.flex-space-between {
+    justify-content: space-between;
+}
+
 .left-align {
     text-align: left;
 }
@@ -150,6 +162,10 @@ img {
 
 .small-font {
     font-size: 2vw;
+}
+
+.x-small-font {
+    font-size: 1.5vw;
 }
 
 .section {
