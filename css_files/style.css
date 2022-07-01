@@ -10,6 +10,10 @@ body {
     background-color: #FAFAFA;
 }
 
+img {
+    height: 100%;
+}
+
 .btn {
     padding: 15px;
     background-color: #2549D3;
@@ -17,6 +21,23 @@ body {
     color: #FAFAFA;
     border: none;
 }
+
+
+/* text align */
+
+.text-align-left {
+    text-align: left;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+
 
 /* padding styles */
 .p-10 {
@@ -102,7 +123,7 @@ body {
 }
 
 .big-font {
-    font-size: 5rem;
+    font-size: 5vw;
 }
 
 .section {
