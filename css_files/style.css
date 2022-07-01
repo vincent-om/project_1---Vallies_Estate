@@ -122,13 +122,18 @@ ul {
     justify-content: space-around;
 }
 
+.flex-space-between {
+    justify-content: space-between;
+}
+
 .flex-center {
     justify-content: center;
 }
 
-.flex-space-between {
-    justify-content: space-between;
+.flex-left {
+    justify-content: end;
 }
+
 
 .left-align {
     text-align: left;
@@ -158,10 +163,17 @@ ul {
     width: 100vw;
 }
 
+.width-30 {
+    width: 30%;
+}
 
 
 .big-font {
     font-size: 5vw;
+}
+
+.medium-font {
+    font-size: 3vw;
 }
 
 .small-font {
@@ -198,6 +210,3 @@ nav {
     margin-left: 10px;
     margin-right: 10px;
 }
-
-
-/* STYLIZE SECTION 3 - OUR PRODUCTS SECTION */
