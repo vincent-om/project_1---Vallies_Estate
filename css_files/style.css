@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.display-inline {
+    display: inline;
+}
+
+
+.btn {
+    padding: 10px;
+    background-color: #2549D3;
+    border-radius: 5px;
+    color: #FAFAFA;
+}
