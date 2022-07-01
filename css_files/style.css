@@ -63,6 +63,10 @@ ul {
     padding: 20px;
 }
 
+.p-bottom-50 {
+    padding-bottom: 50px;
+}
+
 /* margin styles*/
 .m-20 {
     margin: 20px;
@@ -182,8 +186,12 @@ ul {
     width: 25%;
 }
 
-.big-font {
+.x-big-font {
     font-size: 5vw;
+}
+
+.big-font {
+    font-size: 4vw;
 }
 
 .medium-font {
