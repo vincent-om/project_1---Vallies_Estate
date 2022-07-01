@@ -142,10 +142,14 @@ ul {
     height: 10vh;
 }
 
+
 .vw-10 {
     width: 10vw;
 }
 
+.vw-23 {
+    width: 23vw;
+}
 .vw-50 {
     width: 50vw;
 }
