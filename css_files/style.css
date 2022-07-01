@@ -22,6 +22,12 @@ img {
     border: none;
 }
 
+.card {
+    box-shadow: inset;
+    background-color: white;
+    height: 100%;
+}
+
 
 /* text align */
 
@@ -37,7 +43,9 @@ img {
     text-align: center;
 }
 
-
+.bg-position-center {
+    background-position: center;
+}
 
 /* padding styles */
 .p-10 {
@@ -106,12 +114,24 @@ img {
     justify-content: space-around;
 }
 
+.flex-center {
+    justify-content: center;
+}
+
 .left-align {
     text-align: left;
 }
 
 .text-color-blue {
     color: #2549D3;
+}
+
+.vh-10 {
+    height: 10vh;
+}
+
+.vw-10 {
+    width: 10vw;
 }
 
 .vw-50 {
@@ -122,8 +142,14 @@ img {
     width: 100vw;
 }
 
+
+
 .big-font {
     font-size: 5vw;
+}
+
+.small-font {
+    font-size: 2vw;
 }
 
 .section {
@@ -154,4 +180,4 @@ nav {
 }
 
 
-
+/* STYLIZE SECTION 3 - OUR PRODUCTS SECTION */
