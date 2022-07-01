@@ -5,9 +5,12 @@
 }
 
 body {
+    background-color: #FAFAFA;
+}
+
+body > div {
     width: 80vw;
     margin: auto;
-    background-color: #FAFAFA;
 }
 
 img {
@@ -77,6 +80,10 @@ ul {
     margin-bottom: 20px;
 }
 
+.m-bottom-50 {
+    margin-bottom: 50px;
+}
+
 .m-left-20 {
     margin-left: 20px;
 }
@@ -143,6 +150,10 @@ ul {
     color: #2549D3;
 }
 
+.text-color-white {
+    color: white;
+}
+
 .vh-10 {
     height: 10vh;
 }
@@ -167,6 +178,9 @@ ul {
     width: 30%;
 }
 
+.width-25 {
+    width: 25%;
+}
 
 .big-font {
     font-size: 5vw;
@@ -193,6 +207,10 @@ ul {
     background-color: white;
 }
 
+.bg-blue {
+    background-color:#2549D3;
+}
+
 /* STYLE THE NAVBAR */
 nav {
     justify-content: space-between;
@@ -209,4 +227,15 @@ nav {
 .nav-items .item-n {
     margin-left: 10px;
     margin-right: 10px;
+}
+
+
+/* STYLIZE FOOTER */
+footer {
+    width: 100vw;
+}
+
+footer > div {
+    width: 80vw;
+    margin: auto;
 }
