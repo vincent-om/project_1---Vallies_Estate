@@ -11,14 +11,14 @@ body {
 }
 
 .btn {
-    padding: 8px;
+    padding: 15px;
     background-color: #2549D3;
     border-radius: 5px;
     color: #FAFAFA;
     border: none;
 }
 
-/* padding */
+/* padding styles */
 .p-10 {
     padding: 10px;
 }
@@ -27,7 +27,7 @@ body {
     padding: 20px;
 }
 
-/* margin */
+/* margin styles*/
 .m-20 {
     margin: 20px;
 }
@@ -69,6 +69,8 @@ body {
     margin-right: 10px;
 }
 
+/* flex styles */
+
 .flex-row {
     display: flex;
     flex-direction: row;
@@ -77,6 +79,10 @@ body {
 .flex-column {
     display: flex;
     flex-direction: column;
+}
+
+.flex-space-around {
+    justify-content: space-around;
 }
 
 .left-align {
@@ -91,6 +97,10 @@ body {
     width: 50vw;
 }
 
+.vw-100 {
+    width: 100vw;
+}
+
 .big-font {
     font-size: 5rem;
 }
@@ -98,6 +108,10 @@ body {
 .section {
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+.bg-white {
+    background-color: white;
 }
 
 /* STYLE THE NAVBAR */
