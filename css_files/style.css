@@ -150,8 +150,12 @@ ul {
     text-align: left;
 }
 
-.text-color-blue {
+.color-blue-bright {
     color: #2549D3;
+}
+
+.color-blue-dark {
+    color: #0f298b;
 }
 
 .text-color-white {
@@ -207,16 +211,16 @@ ul {
 }
 
 .section {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 9vh;
+    margin-bottom: 9vh;
 }
 
 .bg-white {
     background-color: white;
 }
 
-.bg-blue {
-    background-color:#2549D3;
+.bg-blue-dark {
+    background-color:#0f298b;
 }
 
 /* STYLE THE NAVBAR */
