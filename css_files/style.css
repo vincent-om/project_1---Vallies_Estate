@@ -175,7 +175,7 @@ ul {
     color: #0f298b;
 }
 
-.text-color-white {
+.color-white {
     color: white;
 }
 
@@ -236,8 +236,8 @@ ul {
 }
 
 .section {
-    margin-top: 11vh;
-    margin-bottom: 11vh;
+    margin-top: 13vh;
+    margin-bottom: 13vh;
 }
 
 .box-shadow {
