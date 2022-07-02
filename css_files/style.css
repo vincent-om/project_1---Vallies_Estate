@@ -256,6 +256,10 @@ ul {
     background-color:#0f298b;
 }
 
+.bottom-left-round {
+    border-bottom-left-radius: 50%;
+}
+
 /* STYLE THE NAVBAR */
 nav {
     border-bottom: 1px solid lightgray;
