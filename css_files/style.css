@@ -6,6 +6,7 @@
 
 body {
     background-color: #FAFAFA;
+    font-family: 'Space Grotesk', sans-serif;
 }
 
 body > div {
@@ -33,6 +34,10 @@ ul {
     box-shadow: inset;
     background-color: white;
     height: 100%;
+}
+
+.font-style-Oreo-Script {
+    font-family: 'Oleo Script', cursive;
 }
 
 
@@ -211,8 +216,8 @@ ul {
 }
 
 .section {
-    margin-top: 9vh;
-    margin-bottom: 9vh;
+    margin-top: 11vh;
+    margin-bottom: 11vh;
 }
 
 .bg-white {
