@@ -25,3 +25,6 @@ email: vincent.makokha@student.moringaschool.com
 
 ### License
 MIT License 2021
+
+### Github pages link
+https://vincent-om.github.io/project_1---Vallies_Estate/
