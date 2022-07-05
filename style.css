@@ -34,6 +34,19 @@ ul {
     transform: scale(1.01);
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:focus {
+    color: #2549D3;
+}
+
+a:active {
+    color: #0f298b;
+}
+
 .btn {
     padding: 15px;
     background-color: #2549D3;
