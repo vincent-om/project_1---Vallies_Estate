@@ -18,6 +18,10 @@ body > div {
     display: block;
 }
 
+.d-inline-block {
+    display: inline-block;
+}
+
 img {
     height: 100%;
 }
@@ -291,6 +295,10 @@ a:active {
 
 .border-round {
     border-radius: 10px;
+}
+
+.border-radius-50 {
+    border-radius: 50%;
 }
 
 .bottom-left-round {
