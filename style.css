@@ -26,6 +26,10 @@ ul {
     list-style-type: none;
 }
 
+.hover:hover {
+    box-shadow: 5px 5px 10px black;
+}
+
 .btn {
     padding: 15px;
     background-color: #2549D3;
